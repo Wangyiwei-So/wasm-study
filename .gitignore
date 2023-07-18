@@ -8,3 +8,9 @@ wasmtest1/node_modules
 wasmtest1/.vscode
 wasmtest1/dist
 wasmtest1/pkg
+
+customjs/target
+customjs/node_modules
+customjs/.vscode
+customjs/dist
+customjs/pkg
