@@ -1,0 +1,10 @@
+wasmtest1\target
+wasmtest1\node_modules
+wasmtest1\.vscode
+wasmtest1\dist
+
+wasmtest1/target
+wasmtest1/node_modules
+wasmtest1/.vscode
+wasmtest1/dist
+wasmtest1/pkg
