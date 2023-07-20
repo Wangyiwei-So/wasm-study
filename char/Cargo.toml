@@ -1,0 +1,12 @@
+[package]
+name = "char"
+version = "0.1.0"
+authors = ["Wangyiwei"]
+edition = "2018"
+rust-version = "1.56"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2.87"

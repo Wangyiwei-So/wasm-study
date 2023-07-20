@@ -14,3 +14,11 @@ customjs/node_modules
 customjs/.vscode
 customjs/dist
 customjs/pkg
+
+char/target
+char/node_modules
+char/.vscode
+char/dist
+char/pkg
+char/package-lock.json
+char/Cargo.lock
